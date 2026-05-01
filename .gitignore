@@ -46,6 +46,8 @@ env/
 Thumbs.db
 
 # Data and Models
+!diabetes_model.pkl
+!scaler.pkl
 *.pkl
 *.joblib
 *.h5
